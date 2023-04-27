@@ -1,16 +1,8 @@
 # stepper_app
 
-A new Flutter project.
+![Screenshot 2023-04-27 115225](https://user-images.githubusercontent.com/111500135/234777006-6ca4572c-46ce-4450-9866-0941c2467c09.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot 2023-04-27 115237](https://user-images.githubusercontent.com/111500135/234776988-163c9d17-06f8-40f2-9581-2267e9dac4e6.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-04-27 115251](https://user-images.githubusercontent.com/111500135/234776997-a66be6b6-7dc8-426c-9f10-558f3074d41c.png)
